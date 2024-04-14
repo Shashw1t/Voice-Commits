@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Your Desired Font', sans-serif;
+  line-height: 1.5;
+}
+
+.bg-image {
+  background-image: url('icons/image 13.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.icon {
+  width: 32px;
+  height: 32px;
+}
