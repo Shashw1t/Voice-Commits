@@ -1,4 +1,4 @@
-
+<!-- 
     - [Install SoX on macOS](#install-sox-on-macos)
     - [Install SoX on Windows](#install-sox-on-windows)
 
@@ -96,4 +96,4 @@ No data is collected with this application, it is entirely local to your machine
 
 To install the application locally run the following command to install the package dependencies:
 ```bash
-npm install
+npm install -->
