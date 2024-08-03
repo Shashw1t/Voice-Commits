@@ -1,3 +1,7 @@
+trying to build a vscode extension
+
+
+
 <!-- 
     - [Install SoX on macOS](#install-sox-on-macos)
     - [Install SoX on Windows](#install-sox-on-windows)
