@@ -1,4 +1,5 @@
-Trying to build a VScode extension to record and store voice memos to save the hassle of writing long commit messages
+Trying to build a VScode extension to record and store voice memos to save the hassle of writing long commit messages.
+( Final Beta stage )
 
 
 
